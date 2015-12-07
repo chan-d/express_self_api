@@ -1,7 +1,7 @@
 console.log("Sanity Check: JS is working!");
 
 $(document).ready(function(){
-			var base_url= 'localhost:3000';
+			var base_url= 'https://frozen-bayou-5536.herokuapp.com';
 	  		var toAddUser; 
 	  		var toAddMessage;
 	  		

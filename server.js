@@ -19,7 +19,7 @@ app.use(function(req, res, next) {
  ************/
 
  //messages
-var url ='localhost:3000';
+var url ='https://frozen-bayou-5536.herokuapp.com';
 
 
 var music = [{
